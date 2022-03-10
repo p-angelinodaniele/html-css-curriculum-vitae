@@ -1,0 +1,42 @@
+h2{
+    color:goldenrod ;
+}
+
+
+.center {
+    margin: auto;
+    width: 50%;
+    padding: 0px;
+  }
+
+
+  .profilepicturestyle {
+      background-color: lightgray;
+      margin: auto;
+      border: 0px;
+      width: 50%;
+      padding: 0px
+      ;
+  }
+
+  .footerstyle {
+    
+    margin: auto;
+    border: 0px;
+    width: 50%;
+    padding: 0px
+    ;
+}
+
+    hr{
+
+        border-top: 3px solid goldenrod;
+}
+
+.sectioncenter{
+    text-align: center;
+    line-height: 1px;
+
+}
+
+
