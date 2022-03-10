@@ -1,6 +1,7 @@
 h2{
     color:goldenrod ;
     font-family: Arial, sans-serif;
+    padding: 10px;
 }
 
 
@@ -14,12 +15,14 @@ h2{
     }
 
 
-  .profilepicturestyle {
+  .sectionprofilepicturestyle {
       background-color: lightgray;
-      margin: auto;
+      margin:auto;
       width: 50%;
       text-align: center;
       line-height: 0;
+      
+      
       
       
     }
@@ -42,14 +45,14 @@ h2{
  h4{
     font-style: oblique;
     font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
     }
 
 
-     p{
-    font-family: Arial, sans-serif;
     
-    }
-    h1{
+    
+    
+    h1, p{
         font-family: Arial, sans-serif;
         padding: 10px;
         }
