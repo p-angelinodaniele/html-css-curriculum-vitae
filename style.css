@@ -1,5 +1,6 @@
 h2{
     color:goldenrod ;
+    font-family: Arial, sans-serif;
 }
 
 
@@ -15,9 +16,7 @@ h2{
   .profilepicturestyle {
       background-color: lightgray;
       margin: auto;
-      border: 0px;
       width: 50%;
-      padding: 0px;
       text-align: center;
       line-height: 0;
   }
@@ -25,11 +24,10 @@ h2{
   .footerstyle {
     
     margin: auto;
-    border: 0px;
-    width: 50%;
-    padding: 0px;
+     width: 50%;
     text-align: center;
     line-height: 0;
+    font-size: small;
 }
 
     hr{
@@ -44,7 +42,7 @@ h4{
 }
 
 
-h1, h2, p{
+h1, p{
     font-family: Arial, sans-serif;
 }
 
